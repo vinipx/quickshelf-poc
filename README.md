@@ -29,7 +29,9 @@ For each platform/tool, a separate repository will be created for future artifac
 
 ## Prompts
 
-One to rule them all!  All projects shall start from the very same project context prompt. 
+### [One to rule them all](prompt.md) !  
+
+> All projects shall start from the very same project context prompt. 
 
 ## JIRA
 
