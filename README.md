@@ -33,7 +33,5 @@ One to rule them all!  All projects shall start from the very same project conte
 
 ## JIRA
 
-For JIRA tracking, we will be using a jira.py (python script) - created previously - to serve as utility to create/update JIRA tickets by the platform. 
-
-**Reference**: https://github.com/vinipx/jira-util
+For JIRA tracking, we will be using the [JIRA UTIL scripts](https://github.com/vinipx/jira-util) - to serve as utility to create/update JIRA tickets by the platform. 
 
