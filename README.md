@@ -18,13 +18,13 @@ Build a project from scratch using agentic coding tools with as minimal manual i
 
 For each platform/tool, a separate repository will be created for future artifacts(output) comparison purposes
 
-1. Amazon Q   :     quickshelf-awsq  
+1. Amazon Q   :     [quickshelf-awsq](https://github.com/vinipx/quickshelf-awsq)  
 
-2. Windsurf   :    quickshelf-windsurf
+2. Windsurf   :     [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf)
 
-3. Elitea     :     quickshelf-elitea
+3. Elitea     :     [quickshelf-elitea](https://github.com/vinipx/quickshelf-elitea)
 
-4. Gemini     :      quickshelf-gemini
+4. Gemini     :     [quickshelf-gemini](https://github.com/vinipx/quickshelf-gemini)
 
 
 ## Prompts
