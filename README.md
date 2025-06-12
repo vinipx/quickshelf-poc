@@ -3,6 +3,10 @@
 
 **Welcome to the coworder, your new coder coworker!**
 
+### Introductory Video
+
+> [Watch the Introductory Video](https://drive.google.com/file/d/1YyltOnafY4TFqp9H94FDbs5PuMgtm9Rf/view?usp=sharing)
+
 ### Objective: 
 Build a project from scratch using agentic coding tools with as minimal manual interventions (and prompts) as possible  
 
@@ -18,13 +22,12 @@ Build a project from scratch using agentic coding tools with as minimal manual i
 
 For each platform/tool, a separate repository will be created for future artifacts(output) comparison purposes
 
-1. Amazon Q   :     [quickshelf-awsq](https://github.com/vinipx/quickshelf-awsq)  - _see [full prompt chat history](quickshelf-awsq-chat.md)_
-
-2. Windsurf   :     [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf)
-
-3. Elitea     :     [quickshelf-elitea](https://github.com/vinipx/quickshelf-elitea)
-
-4. Gemini     :     [quickshelf-gemini](https://github.com/vinipx/quickshelf-gemini)
+|   Platform   |  Code Repo | Video |
+|-----------------|-----------------|-----------------|
+| Amazon Q  | [quickshelf-awsq](https://github.com/vinipx/quickshelf-awsq) | [POC Amazon Q](https://drive.google.com/file/d/1aik7bi-6z2mkCUN5JcUdyRhfxFFQ3Wgh/view?usp=sharing) |
+| Windsurf  | [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf) | [POC Windsurf](https://drive.google.com/file/d/1dbyHwMrl6W_fxgjrFNQI21XlPxjr61yZ/view?usp=sharing) |
+| Elitea    | [quickshelf-elitea](https://github.com/vinipx/quickshelf-elitea) | TODO |
+| Gemini    | [quickshelf-gemini](https://github.com/vinipx/quickshelf-gemini) | TODO | 
 
 
 ## Prompts
