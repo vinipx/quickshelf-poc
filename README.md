@@ -18,7 +18,7 @@ Build a project from scratch using agentic coding tools with as minimal manual i
 - Code and user guide documentation must be provided (e.g. Java Docs and README.md) 
 - Changes shall be pushed and tracked in GitHub repository as well as project release to be published in GitHub
  
-## Platform/Tooling and Repositories
+## Content (Platform/Repositories/Videos)
 
 For each platform/tool, a separate repository will be created for future artifacts(output) comparison purposes
 
