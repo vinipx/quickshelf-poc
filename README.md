@@ -17,6 +17,16 @@ Build a project from scratch using agentic coding tools with as minimal manual i
 - Project must offer configuration setup to run app/server in localhost
 - Code and user guide documentation must be provided (e.g. Java Docs and README.md) 
 - Changes shall be pushed and tracked in GitHub repository as well as project release to be published in GitHub
+
+## Prompts
+
+### [One to rule them all](prompt.md) !  
+
+> All projects shall start from the very same project context prompt. 
+
+## JIRA
+
+For JIRA tracking, we will be using the [JIRA UTIL scripts](https://github.com/vinipx/jira-util) - to serve as utility to create/update JIRA tickets by the platform. 
  
 ## Results
 
@@ -45,15 +55,4 @@ For each platform/tool, a separate repository will be created for future artifac
 | Elitea | -- |
 | Gemini | -- |
 | GitHub Copilot | -- |
-
-
-## Prompts
-
-### [One to rule them all](prompt.md) !  
-
-> All projects shall start from the very same project context prompt. 
-
-## JIRA
-
-For JIRA tracking, we will be using the [JIRA UTIL scripts](https://github.com/vinipx/jira-util) - to serve as utility to create/update JIRA tickets by the platform. 
 
