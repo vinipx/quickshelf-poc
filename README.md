@@ -24,11 +24,11 @@ For each platform/tool, a separate repository will be created for future artifac
 
 ### Criteria:
 - **Req Accuracy** : how accurate the generated artifacts(code, documentation, scripts) were to the actual prompt requirement
-- **Allucination** : unnecessary artifacts created, useless artifacts produced, and/or non requested changes/features added
+- **Hallucination** : unnecessary artifacts created, useless artifacts produced, and/or non requested changes/features added
 - **Code Quality** : static code analysis tooling statistics (e.g. SonarQube) 
 - **Test Coverage**: overall test coverage generated based on unit/integration tests created (e.g. Jacoco)
 
-| Tool | Repository | Video | Req Accuracy | Allucination | Code Quality | Test Coverage |
+| Tool | Repository | Video | Req Accuracy | Hallucination | Code Quality | Test Coverage |
 |-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
 | AWS Q  |  [quickshelf-awsq](https://github.com/vinipx/quickshelf-awsq) | [POC AWS Q](https://drive.google.com/file/d/1aik7bi-6z2mkCUN5JcUdyRhfxFFQ3Wgh/view?usp=sharing) | :star: :star: :star: :star: :star: | :star: :star: | ? | :star: :star: :star: :star: (93%) | 
 | Windsurf  |  [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf) | [POC Windsurf](https://drive.google.com/file/d/1dbyHwMrl6W_fxgjrFNQI21XlPxjr61yZ/view?usp=sharing) | :star: :star: :star: | :star: | ? | :star: :star: :star: (79%) |
