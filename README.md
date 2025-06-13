@@ -18,16 +18,22 @@ Build a project from scratch using agentic coding tools with as minimal manual i
 - Code and user guide documentation must be provided (e.g. Java Docs and README.md) 
 - Changes shall be pushed and tracked in GitHub repository as well as project release to be published in GitHub
  
-## Content - _Platform/Repositories/Videos_
+## Content & Results - _Platform/Repositories/Videos_
 
 For each platform/tool, a separate repository will be created for future artifacts(output) comparison purposes
 
-|   Platform   |  Code Repo | Video |
-|-----------------|-----------------|-----------------|
-| Amazon Q  | [quickshelf-awsq](https://github.com/vinipx/quickshelf-awsq) | [POC Amazon Q](https://drive.google.com/file/d/1aik7bi-6z2mkCUN5JcUdyRhfxFFQ3Wgh/view?usp=sharing) |
-| Windsurf  | [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf) | [POC Windsurf](https://drive.google.com/file/d/1dbyHwMrl6W_fxgjrFNQI21XlPxjr61yZ/view?usp=sharing) |
-| Elitea    | [quickshelf-elitea](https://github.com/vinipx/quickshelf-elitea) | TODO |
-| Gemini    | [quickshelf-gemini](https://github.com/vinipx/quickshelf-gemini) | TODO | 
+### Criteria:
+- **Req Accuracy** : how accurate the generated artifacts(code, documentation, scripts) were to the actual prompt requirement
+- **Allucination** : unnecessary artifacts created, useless artifacts produced, and/or non requested changes/features added
+- **Code Quality** : static code analysis tooling statistics (e.g. SonarQube) 
+- **Test Coverage**: overall test coverage generated based on unit/integration tests created (e.g. Jacoco)
+
+| Tool | Repository | Video | Req Accuracy | Allucination | Code Quality | Test Coverage |
+|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Amazon Q  |  [quickshelf-awsq](https://github.com/vinipx/quickshelf-awsq) | [POC Amazon Q](https://drive.google.com/file/d/1aik7bi-6z2mkCUN5JcUdyRhfxFFQ3Wgh/view?usp=sharing) | :star: :star: :star: :star: :star: | :star: :star: | ? | ? | 
+| Windsurf  |  [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf) | [POC Windsurf](https://drive.google.com/file/d/1dbyHwMrl6W_fxgjrFNQI21XlPxjr61yZ/view?usp=sharing) | :star: :star: :star: | :star: | ? | ? |
+| Elitea    | [quickshelf-elitea](https://github.com/vinipx/quickshelf-elitea) | TODO | ? | ? | ? | ? |
+| Gemini    | [quickshelf-gemini](https://github.com/vinipx/quickshelf-gemini) | TODO | ? | ? | ? | ? |
 
 
 ## Prompts
