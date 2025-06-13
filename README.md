@@ -34,6 +34,7 @@ For each platform/tool, a separate repository will be created for future artifac
 | Windsurf  |  [quickshelf-windsurf](https://github.com/vinipx/quickshelf-windsurf) | [POC Windsurf](https://drive.google.com/file/d/1dbyHwMrl6W_fxgjrFNQI21XlPxjr61yZ/view?usp=sharing) | :star: :star: :star: | :star: | ? | :star: :star: :star: (79%) |
 | Elitea    | [quickshelf-elitea](https://github.com/vinipx/quickshelf-elitea) | TODO | ? | ? | ? | ? |
 | Gemini    | [quickshelf-gemini](https://github.com/vinipx/quickshelf-gemini) | TODO | ? | ? | ? | ? |
+| GitHub Copilot | [quickshelf-gemini](https://github.com/vinipx/quickshelf-copilot) | TODO | ? | ? | ? | ? |
 
 ### Test Coverage
 
@@ -43,6 +44,7 @@ For each platform/tool, a separate repository will be created for future artifac
 | Windsurf | ![jacoco-windsurf](jacoco-windsurf.png) |
 | Elitea | -- |
 | Gemini | -- |
+| GitHub Copilot | -- |
 
 
 ## Prompts
