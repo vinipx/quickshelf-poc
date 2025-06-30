@@ -41,10 +41,10 @@ For each platform/tool, a separate repository will be created for future artifac
 ### Evaluation: 
 
 - Poor           : :star:
-- Not Sufficient ::star::star:
-- Good           ::star::star::star:
-- Great          ::star::star::star::star: 
-- Awesome        ::star::star::star::star::star:
+- Not Sufficient : :star::star:
+- Good           : :star::star::star:
+- Great          : :star::star::star::star: 
+- Awesome        : :star::star::star::star::star:
 
 | Tool | Repository | Video | Req Accuracy | Hallucination | Code Quality | Test Coverage |
 |-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
